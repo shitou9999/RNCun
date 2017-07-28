@@ -13,7 +13,10 @@ import {
 } from 'react-native';
 
 // import Main from './src/Pager/Special';
-import Main from './src/Pager/Search';
+// import Main from './src/Pager/Search';
+import Main from './src/Commponent/Home/Recommend';
+
+
 
 export default class RNCun extends Component {
   render() {

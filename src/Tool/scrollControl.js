@@ -1,8 +1,8 @@
 import {observable} from 'mobx';
 
 class ScrollControl {
-  @observable screenEnable = true
-  @observable scrollPos = 0
+  // @observable screenEnable = true
+  // @observable scrollPos = 0
   // 切换控制
   toggleEnable = () =>{
     this.screenEnable = !this.screenEnable
